@@ -1,0 +1,47 @@
+{
+	"id": -1,
+	"name": "Rimworld Pawn",
+	"description": "This rimworld pawn was drawn by the german streamer Edopeh and his community, it represents \"Matt\" the current main character of his Rimworld story runs.",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/edopeh"
+		],
+		"discord": [
+			"3HJarG6"
+		]
+	},
+	"path": {
+		"66": [
+			[
+				723,
+				-115
+			],
+			[
+				724,
+				-81
+			],
+			[
+				744,
+				-79
+			],
+			[
+				743,
+				-114
+			],
+			[
+				743,
+				-115
+			],
+			[
+				743,
+				-115
+			]
+		]
+	},
+	"center": {
+		"66": [
+			734,
+			-97
+		]
+	}
+}
